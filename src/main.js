@@ -3,6 +3,7 @@ import ListFilterView from './view/filters';
 import ListSortingView from './view/sorting';
 import creatingEventView from './view/creating-form';
 import EventView from './view/route-point';
+import presenter from './presenter/presenter';
 
 
 const tripHeaderNode = document.querySelector('.trip-main');
